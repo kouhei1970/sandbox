@@ -1,4 +1,4 @@
-//This file is Quadrotor Helicopter Control Prograt
+//This file is Quadrotor Helicopter Control Program
 #include <AP_HAL.h>
 #include <AP_Common.h>
 #include <AP_Progmem.h>
